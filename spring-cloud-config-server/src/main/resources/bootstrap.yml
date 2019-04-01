@@ -8,8 +8,8 @@ spring:
     config:
       server:
         git:
-          uri: file:///Users/mac-145-pranay-pawar/PRANAY/Development/Java/config-properties-repo/            
-                
+          uri: file:///Users/mac-145-pranay-pawar/PRANAY/Development/Java/config-properties-repo/
+                          
 management:
   endpoints:
     web:
